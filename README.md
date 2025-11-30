@@ -120,7 +120,7 @@ These insights can support data-driven decision-making for telecom providers.
 ## 📁 Repository Structure
 
 ```
-telco-customer-churn-ml/
+telco-churn-ml/
 │
 ├── README.md
 ├── requirements.txt
